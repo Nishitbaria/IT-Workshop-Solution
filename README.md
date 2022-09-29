@@ -6,6 +6,9 @@ College Practice solutions
 
 <a href="https://github.com/Nishitbaria/IT-Workshop-Solution/blob/main/index.php " > Practicle-2  Write a program to enter TWO numbers and print 
 the Swap Numbers using PHP. </a> 
+<a href="  https://github.com/Nishitbaria/IT-Workshop-Solution/blob/main/prac3.php"   >     Write a PHP Script to check whether the given 
+number is Palindrome or not.                  </a>
+<a href="  "   >                       </a>
                                                               
                                                               
                                                               
