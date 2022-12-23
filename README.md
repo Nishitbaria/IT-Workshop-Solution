@@ -3,7 +3,7 @@
 ## Table Of Contents
 - [1. Installation of WAMP/XAMP. ](./PIc/dsa.md) 
 - [2. Write a program to enter TWO numbers and print the Swap Numbers using PHP.](./PIc/dsa.md) 
-- [3. Write a PHP Script to check whether the given number is Palindrome or not.](./PIc/dsa.md) 
+- [3. Write a PHP Script to check whether the given number is Palindrome or not.](.Practicle2/code2.php) 
 - [4. Write a program to do Array Operation in PHP.](./PIc/dsa.md) 
 - [5. File Handling Using PHP.](./PIc/dsa.md) 
 - [6. Write simple PHP program to <br>
