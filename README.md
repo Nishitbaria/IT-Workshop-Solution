@@ -5,7 +5,7 @@
 - [2. Write a program to enter TWO numbers and print the Swap Numbers using PHP.](./Practicle2/code2.php) 
 - [3. Write a PHP Script to check whether the given number is Palindrome or not.](./Practicle3/code3.php) 
 - [4. Write a program to do Array Operation in PHP.](./Practicle4/code4.php) 
-- [5. File Handling Using PHP.](./Practicle 5/practicle5.php) 
+- [5. File Handling Using PHP.](./Practicle5/practicle5.php) 
 - [6. Write simple PHP program to <br>
        a. Set cookies and read it. <br>
        b. Demonstrate session management.](./Practicle6/code6.php) 
