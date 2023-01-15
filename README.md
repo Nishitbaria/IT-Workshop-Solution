@@ -17,4 +17,4 @@
 - [12. Create a student Registration in PHP and Save and Display the student Records.](./Practicle11/code11.php) 
  
  
- <h2  style="text-align:center;">    Made By Nishitbaria❤     </h2>
+ <h3  style="text-align:center;">    Made By Nishitbaria❤     </h3>
