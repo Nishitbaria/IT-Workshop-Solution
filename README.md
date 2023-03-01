@@ -10,7 +10,7 @@
        a. Set cookies and read it. <br>
        b. Demonstrate session management.](./Practicle6/code6.php) 
 - [7. Write a PHP program to create and drop a database using MySQL.](./Practicle7/code7.php)
-- [8. Write a PHP program to create a table in MySQL.](./PIc/dsa.md)
+- [8. Write a PHP program to create a table in MySQL.](https://github.com/Nishitbaria/IT-Workshop-Solution/tree/main/Practicle8)
 - [9. Write a PHP program to insert record into a table using MySQL.](./Practicle8/code8.php)
 - [10. Write a PHP program to drop table using MySQL.](./practicle9/code9.php)
 - [11. Write a PHP program to select data and show into table format.](./Practicle10/code10.php) 
